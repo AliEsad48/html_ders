@@ -5,19 +5,19 @@
   padding: 0;
   margin: 0;
 }
-​ .menu a {
+.menu a {
   text-decoration: none;
   color: black;
   padding: 10px 20px;
   display: inline-block;
 }
-​ .menu li {
+.menu li {
   border-right: 1px solid gray;
 }
-​ .menu .ilk {
+.menu .ilk {
   border-left: 1px solid gray;
 }
-​ .menu {
+.menu {
   background-color: lightcoral;
   border-radius: 10px;
   border: 1px solid rgb(240, 84, 84);
